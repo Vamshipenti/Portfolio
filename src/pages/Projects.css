@@ -99,16 +99,20 @@
 }
 
 @media (max-width: 768px) {
+  
   .projects-section {
-    padding-top: 280px; 
+    
   }
 
   .projects-heading {
     font-size: 28px;
+    margin-top: 0;  
+    padding-top: 0px;
   }
 
   .project-title {
     font-size: 18px;
+    margin-top: 0;  
   }
 
   .project-description {
