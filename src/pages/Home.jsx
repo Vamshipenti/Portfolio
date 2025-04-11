@@ -7,7 +7,6 @@ const Home = () => {
   return (
     <section className="hero-section">
       <div className="hero-content">
-        {/* Left Side */}
         <div className="hero-text">
           <h2>Hello, I'm</h2>
           <h1>Penti Vamshi</h1>

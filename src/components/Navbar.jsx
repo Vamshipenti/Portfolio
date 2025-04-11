@@ -12,7 +12,7 @@ const Navbar = () => {
         <div className="nav-links">
           <a href="about" className="bg-white text-gray-800 py-16 px-6">About Me</a>
           <a href="projects" className="bg-gray-100 py-16 px-6">My Projects</a>
-          <a href="contact" className="bg-white py-16 px-6">Contact Us</a>
+          <a href="contact" className="bg-white py-16 px-6">Contact Me</a>
           <a 
             href="/Vamshi Penti - MERN.pdf" 
             download="Vamshi_Penti_MERN_Developer" 
