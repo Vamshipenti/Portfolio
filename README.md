@@ -1,70 +1,69 @@
-# Getting Started with Create React App
+Penti Vamshi - Portfolio
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Welcome to my portfolio! This project showcases my skills, experience, and the projects I've worked on as a Full Stack Developer. The aim of this portfolio is to represent my personal brand and demonstrate my abilities in building modern applications.
 
-## Available Scripts
+About Me
+Hi, I'm Penti Vamshi, a passionate Full Stack Developer with expertise in ReactJS, React Native, Node.js, Spring Boot, MongoDB, MySQL, and other modern technologies. I am constantly learning and building projects to improve my skills and stay updated with the latest trends in web and mobile development.
 
-In the project directory, you can run:
+You can explore the various projects I’ve worked on, and if you’d like to connect, feel free to reach out to me!
+Skills
+- Languages: JavaScript, Java, SQL, HTML, CSS
+- Frontend: ReactJS, React Native
+- Backend: Node.js, Spring Boot
+- Database: MongoDB, MySQL, PostgreSQL
+- Version Control: Git, GitHub
+- Tools: VS Code, Postman, Figma
+Projects
+1. E-Commerce Application
+Tech Stack: ReactJS (Frontend), Spring Boot (Backend), MySQL (Database)
+A full-stack e-commerce platform that includes features such as product management, user authentication, payment integration, and order tracking.
+Link to project repository: [#]
+2. Emotional - Wellbeing- Tracker
+Tech Stack: React Native
+A mobile application that helps users track their daily moods and emotional well-being. It provides an overview of emotional changes throughout the day.
+Link to project repository: [#]
+3. Personal Finance Tracker
+Tech Stack: React Native, MongoDB
+An app to manage personal finances, track expenses, and categorize financial data. Users can easily add, update, and visualize their spending habits.
+Link to project repository: [#]
+4. Employee Management System
+Tech Stack: Java, Spring Boot, MySQL
+A system for managing employee records, with features like adding, editing, and deleting employee data along with user authentication.
+Link to project repository: [#]
+5. Job Portal Application
+Tech Stack: React Native (Frontend), Node.js (Backend), MongoDB (Database)
+A job portal app where users can create profiles, search for jobs, and apply. Admin users can manage job listings and view applications.
+Link to project repository: [#]
+How to Run This Portfolio Locally
+To view this portfolio on your local machine, follow these steps:
 
-### `npm start`
+1. Clone the repository
+```bash
+git clone https://github.com/vamshipenti/Portfolio.git
+```
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+2. Install dependencies
+Navigate to the project folder and run:
+```bash
+npm install
+```
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+3. Start the application
+To start the application, run:
+```bash
+npm start
+```
+This will launch the app on [http://localhost:3000](http://localhost:3000).
+Contact Me
+You can reach out to me via the following:
 
-### `npm test`
+- Email: vamshipentiofficial@gmail.com
+- LinkedIn: [www.linkedin.com/in/vamshipenti/](https://www.linkedin.com/in/vamshipenti/)
+- GitHub: [https://github.com/vamshipenti](https://github.com/vamshipenti)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Feel free to connect with me for collaboration, opportunities, or just to chat about technology!
+License
+This project is licensed under the MIT License - see the LICENSE.md file for details.
+---
 
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Thank you for visiting my portfolio! I hope you enjoy browsing through my work.
