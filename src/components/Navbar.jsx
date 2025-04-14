@@ -14,8 +14,8 @@ const Navbar = () => {
           <a href="projects" className="bg-gray-100 py-16 px-6">My Projects</a>
           <a href="contact" className="bg-white py-16 px-6">Contact Me</a>
           <a 
-            href="/Vamshi Penti - MERN.pdf" 
-            download="Vamshi_Penti_MERN_Developer" 
+            href="/VAMSHI PENTI -  JAVA FULL STACK DEVELOPER.pdf" 
+            download="VAMSHI PENTI -  JAVA FULL STACK DEVELOPER" 
             className="nav-resume-btn"
           >
             Download Resume

@@ -7,7 +7,7 @@ function About() {
       <div className="about-container">
         <h2 className="section-title">About Me</h2>
         <p className="about-intro">
-          Hi, I'm <strong>Penti Vamshi</strong>, a passionate Full Stack Developer with experience in building modern web and mobile applications using <strong>ReactJS, React Native, Spring Boot, Node.js</strong>, and other technologies. I enjoy creating efficient, user-friendly products that make an impact.
+          Hi, I'm <strong>Penti Vamshi</strong>, a passionate Full Stack Developer with experience in building modern web and mobile applications using <strong>ReactJS, React Native, Spring Boot</strong>, and other technologies. I enjoy creating efficient, user-friendly products that make an impact.
         </p>
 
         <div className="section-block">
@@ -16,7 +16,7 @@ function About() {
             <li><strong>SSC (2015)</strong> – 8.7 CGPA</li>
             <li><strong>Intermediate (2017)</strong> – 94.4%</li>
             <li><strong>B.Tech in CSE (2017–2021)</strong> – Guru Nanak Institutions, Hyderabad – 7.04 CGPA</li>
-            <li><strong>MBA in HRM (2021–2023)</strong> – 7.00 CGPA</li>
+           
           </ul>
         </div>
 

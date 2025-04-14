@@ -10,7 +10,7 @@ const Home = () => {
         <div className="hero-text">
           <h2>Hello, I'm</h2>
           <h1>Penti Vamshi</h1>
-          <p>Full Stack Developer | UI/UX Enthusiast | JAVA  | MERN </p>
+          <p>Full Stack Developer | Spring Boot | React Native | RESTful Services | MySQL | Microservices | Git | React JS |</p>
           <div className="hero-icons">
             <a href="mailto:vamshipentiofficial@gmail.com" target="_blank" rel="noopener noreferrer">
               <FaEnvelope />
